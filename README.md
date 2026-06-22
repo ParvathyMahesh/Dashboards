@@ -149,4 +149,3 @@ Data Analyst | Power BI Developer
 
 ---
 
-## ⭐ If you found this project helpful, consider giving it a Star!
